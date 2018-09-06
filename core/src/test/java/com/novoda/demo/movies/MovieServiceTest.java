@@ -8,7 +8,7 @@ public class MovieServiceTest {
 
     @Test
     public void testsCanRunAndFail() {
-        assertThat(true).isFalse();
+        assertThat(true).isTrue();
     }
 
 }
